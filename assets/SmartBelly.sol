@@ -19,7 +19,7 @@ contract SmartBelly {
     }
 
     function withdraw() returns (bool) {
-        uint creditsOwed, etherAmount
+        uint creditsOwed; etherAmount;
 
         creditsOwed = credits[msg.sender];
         etherAmount = (
