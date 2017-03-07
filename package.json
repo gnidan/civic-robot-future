@@ -16,7 +16,13 @@
     "normalize.css": "3.0.3",
     "react": "15.4.2",
     "react-dom": "15.4.2",
-    "spectacle": "^2.0.0"
+    "react-fa-icon": "^0.1.4",
+    "react-fontawesome": "^1.5.0",
+    "react-particles": "0.0.3",
+    "react-particles-js": "^1.4.0",
+    "react-svg-use": "^2.1.0",
+    "spectacle": "^2.0.0",
+    "spectacle-code-slide": "^0.3.1"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
